@@ -28,7 +28,7 @@ The patient data is organized using a **Pandas DataFrame** and visualized using 
 
 ## 📸 Code and Visualization Preview
 
-![Drug Dose Analyzer](images/Drug_Dose_Analyzer.png)
+![Drug Dose Analyzer](images/drug_dose_analyzer.png)
 
 This project includes:
 
